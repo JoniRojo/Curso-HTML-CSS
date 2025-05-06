@@ -1,0 +1,13 @@
+p {
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: line-through;
+    line-height: 1.5;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    word-wrap: break-word;
+}
