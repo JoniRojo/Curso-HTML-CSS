@@ -1,0 +1,19 @@
+/* Selector por elementos del mismo tipo (misma etiqueta) */
+li {
+    color:black
+}
+
+/* Selector de solo una parte de una etiqueta */
+span {
+    color:orange
+}
+
+/* Selector por clases */
+.ingrediente_faltante {
+    color: red
+}
+
+/* Selector por ID */
+#ingrediente_secreto {
+    color : blue
+}
